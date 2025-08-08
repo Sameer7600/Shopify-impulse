@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div>
        <header>
-        <nav className="h-20 w-full grid grid-cols-2 content-center font-sans shadow-lg">
+        <nav className="h-20 w-full grid grid-cols-2 content-center font-sans">
          <div>
             <img
              src="https://archetypethemes.co/cdn/shop/files/Frame_115_120x.png?v=1657647211" 
